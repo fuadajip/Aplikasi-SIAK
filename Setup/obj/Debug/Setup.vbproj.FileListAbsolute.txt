@@ -1,0 +1,15 @@
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\bin\Debug\Setup.exe.config
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\bin\Debug\Setup.exe
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\bin\Debug\Setup.pdb
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\bin\Debug\Setup.xml
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\bin\Debug\MySql.Data.dll
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.vbprojResolveAssemblyReference.cache
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.Form1.resources
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.Resources.resources
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.vbproj.GenerateResource.Cache
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.exe
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.xml
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.pdb
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.createnew.resources
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.main.resources
+E:\Gunadarma\Semester3\SIAK\Program Akuntansi\InputSetup\Setup\Setup\obj\Debug\Setup.open.resources
